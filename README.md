@@ -15,8 +15,8 @@ And much more to come. i want to be a senior programmer!
   * Next.js.
 
 ### 📫 How to reach me:
-  [LinkedIn profile](https://www.linkedin.com/in/gustavo-rodolfo-paz-767951118/)
-  gusti.paz@gmail.com
+  *[LinkedIn profile](https://www.linkedin.com/in/gustavo-rodolfo-paz-767951118/)
+  * Email to: gusti.paz@gmail.com
 
 ### ⚡ Fun fact:
   * i enjoy every project maked.
