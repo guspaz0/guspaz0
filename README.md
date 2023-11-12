@@ -15,6 +15,7 @@ And much more to come. i want to be a senior programmer!
   * Flutter for build mobile multiplatform phones apps.
   * Next.js.
   * MySQL.
+  * Improving my English language level.
   
 
 ### 📫 How to reach me:
