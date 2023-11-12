@@ -13,6 +13,7 @@ And much more to come. i want to be a senior programmer!
 ### 🌱 I’m currently learning:
   * Flutter for build mobile multiplatform phones apps.
   * Next.js.
+  * constantly searching for optimizing my code and good practices.
 
 ### 📫 How to reach me:
   * [LinkedIn profile](https://www.linkedin.com/in/gustavo-rodolfo-paz-767951118/)
