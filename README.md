@@ -9,11 +9,13 @@ And much more to come. i want to be a senior programmer!
 ### 🔭 Currently working on...
   * public Health Care institutions helping to the workers and administrative accounting personel providing apps to make his works more comfortable...
   * Personal projects as a freelancer...
+  * constantly searching for optimizing my code and good practices.
 
 ### 🌱 I’m currently learning:
   * Flutter for build mobile multiplatform phones apps.
   * Next.js.
-  * constantly searching for optimizing my code and good practices.
+  * MySQL.
+  
 
 ### 📫 How to reach me:
   * [LinkedIn profile](https://www.linkedin.com/in/gustavo-rodolfo-paz-767951118/)
