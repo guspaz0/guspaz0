@@ -1,23 +1,64 @@
 ### Hi there 👋
 
-im a junior full stack web developer with background in Economics, currently i am a Public Accountant career student.
-
-### Skills:
-Javascript, Node.js, express.js, React.js, Redux, postgreSQL, MySql, HTML, CSS, AWS.
-
-### 🔭 Currently working on...
-  * public Health Care institutions helping to the workers and administrative accounting personel providing apps to make his works more comfortable...
-  * Personal projects as a freelancer...
-  * constantly searching for optimizing my code and good practices.
+im a junior full stack web developer with background in auxiliary accountant.
 
 ### 📫 How to reach me:
-  * [LinkedIn profile](https://www.linkedin.com/in/gustavo-rodolfo-paz-767951118/)
-  * Email to: gusti.paz@gmail.com
+* [LinkedIn profile](https://www.linkedin.com/in/gustavo-rodolfo-paz-767951118/)
+* [Portfolio](https://guspaz0.github.io/portfolio2024/)
+* Email to: gusti.paz@gmail.com
+
+## Skills:
+
+### Frontend:
+- Javascript
+- React.js 
+- Redux
+- Vue.js
+- HTML 
+- CSS
+
+### Backend:
+- #### Java:
+  - Spring framework
+  - Jdbc Api.
+  - H2
+  - Lombok
+  - ORM Spring Data
+  - Testing with Mockito, Junit
+- #### Javasacript:
+  - Node
+  - express
+  - sequelize ORM
+  - express validator
+- ### Python:
+  - FastApi framework 
+
+- ### Databases:
+  - postgreSQL
+  - MySql
+  - H2
+- ### Cloud Architecture:
+  - Amazon Web Services:
+    - AWS S3
+    - AWS Redshift (big data)
+    - AWS Lambda
+    - AWS EC2
+    - AWS Cloud formation
+  - Serverless Framework.
+- ### DevOps tools:
+  - Docker
+    - Docker compose
+    - Docker swarm
+
+### 🔭 Currently working on...
+* Personal projects as a freelancer...
+* constantly searching for optimizing my code and good practices.
+
 
 ### ⚡ Fun fact:
-  * i enjoy every project maked.
-  * try and failure is my best method to code! i gain some tolerance frustation.
-  * If it works, do not touch it!.
+* i enjoy every project maked.
+* try and failure is my best method to code! i gain some tolerance frustation.
+* If it works, do not touch it!.
     
 <!--
 **guspaz0/guspaz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
