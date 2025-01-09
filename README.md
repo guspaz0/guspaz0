@@ -7,6 +7,10 @@ im a junior full stack web developer with background in auxiliary accountant.
 * [Portfolio](https://guspaz0.github.io/portfolio2024/)
 * Email to: gusti.paz@gmail.com
 
+![guspaz0's GitHub stats](https://github-readme-stats.vercel.app/api?username=guspaz0&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guspaz0&layout=compact)
+
 ## Skills:
 
 ### Frontend:
