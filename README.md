@@ -6,10 +6,12 @@ im a junior full stack web developer with background in auxiliary accountant.
 * [LinkedIn profile](https://www.linkedin.com/in/gustavo-rodolfo-paz-767951118/)
 * [Portfolio](https://guspaz0.github.io/portfolio2024/)
 * Email to: gusti.paz@gmail.com
+  
+<span align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guspaz0&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guspaz0&layout=compact"/>
+</span>
 
-![guspaz0's GitHub stats](https://github-readme-stats.vercel.app/api?username=guspaz0&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guspaz0&layout=compact)
 
 ## Skills:
 
