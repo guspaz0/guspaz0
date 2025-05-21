@@ -9,11 +9,12 @@ im a junior full stack web developer with background in auxiliary accountant.
   
 <span align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guspaz0&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guspaz0&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guspaz0&size_weight=0.5&count_weight=0.5&hide=dockerfile,ejs,css,scss,html,handlebars,procfile&layout=compact&langs_count=6&theme=dracula"/>
 </span>
 
-
 ## Skills:
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vite,nodejs,express,nestjs,redux,docker,linux,electron,git,github,java,spring,kotlin,jest,mongodb,mysql,postgres,sqlite,aws,azure,vercel,npm,postman&theme=light)
 
 ### Frontend:
 - Javascript
