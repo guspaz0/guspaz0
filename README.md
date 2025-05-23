@@ -16,56 +16,9 @@ im a junior full stack web developer with background in auxiliary accountant.
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vite,nodejs,express,nestjs,redux,docker,linux,electron,git,github,java,spring,kotlin,jest,mongodb,mysql,postgres,sqlite,aws,azure,vercel,npm,postman&theme=light)
 
-### Frontend:
-- Javascript
-- React.js 
-- Redux
-- Vue.js
-- HTML 
-- CSS
-
-### Backend:
-- #### Java:
-  - Spring framework
-  - Jdbc Api.
-  - H2
-  - Lombok
-  - ORM Spring Data
-  - Testing with Mockito, Junit
-- #### Javasacript:
-  - Node
-  - express
-  - sequelize ORM
-  - express validator
-- ### Python:
-  - FastApi framework 
-
-- ### Databases:
-  - postgreSQL
-  - MySql
-  - H2
-- ### Cloud Architecture:
-  - Amazon Web Services:
-    - AWS S3
-    - AWS Redshift (big data)
-    - AWS Lambda
-    - AWS EC2
-    - AWS Cloud formation
-  - Serverless Framework.
-- ### DevOps tools:
-  - Docker
-    - Docker compose
-    - Docker swarm
-
 ### 🔭 Currently working on...
 * Personal projects as a freelancer...
 * constantly searching for optimizing my code and good practices.
-
-
-### ⚡ Fun fact:
-* i enjoy every project maked.
-* try and failure is my best method to code! i gain some tolerance frustation.
-* If it works, do not touch it!.
     
 <!--
 **guspaz0/guspaz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
