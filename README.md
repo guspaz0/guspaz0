@@ -14,7 +14,7 @@ im a junior full stack web developer with background in auxiliary accountant.
 
 ## Skills:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vite,nodejs,express,nestjs,redux,docker,linux,electron,git,github,java,spring,kotlin,jest,mongodb,mysql,postgres,sqlite,aws,azure,vercel,npm,postman&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,vite,nodejs,express,nestjs,redux,docker,linux,electron,git,github,java,spring,mongodb,mysql,postgres,sqlite,aws,azure,vercel,npm,postman&theme=light)
 
 ### 🔭 Currently working on...
 * Personal projects as a freelancer...
