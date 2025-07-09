@@ -20,9 +20,6 @@ im a junior full stack web developer with background in auxiliary accountant.
 * Personal projects as a freelancer...
 * constantly searching for optimizing my code and good practices.
 
-<p align="center">
-  <b>Profile prints #:</b><img src=https://profile-counter.glitch.me/guspaz0/count.svg alt="counter"> <b> since 12/6/2025 </b>
-</p>
     
 <!--
 **guspaz0/guspaz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
