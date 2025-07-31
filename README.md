@@ -3,9 +3,13 @@
 im a junior full stack web developer with background in auxiliary accountant.
 
 ### 📫 How to reach me:
-* [LinkedIn profile](https://www.linkedin.com/in/gustavo-rodolfo-paz-767951118/)
+* <a href="https://www.linkedin.com/in/gustavo-rodolfo-paz/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Gustavo%20Rodolfo%20Paz-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+  </a>
+* <a href="mailto:gusti.paz@gmail.com?subject=consulta/mentoria&body=Hola!%20Vengo%20desde%20tu%20perfil%20de%20Github.%20Me%20gustaria%20tener%20una%20breve%20entrevista%20de%20trabajo">
+    <img src="https://custom-icon-badges.demolab.com/badge/Enviame%20un%20email-0A66C2?logo=mail-white&logoColor=fff" alt="Mail">
+  </a>
 * [Portfolio](https://guspaz0.github.io/portfolio2024/)
-* Email to: gusti.paz@gmail.com
   
 <span align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guspaz0&show_icons=true&theme=radical"/>
